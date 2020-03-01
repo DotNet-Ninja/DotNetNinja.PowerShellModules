@@ -1,6 +1,8 @@
 # DotNetNinja.PowerShellModules
 A solution for PowerShell Modules written in C#
 
+[![Build Status](https://dev.azure.com/chaosmonkey/DotNetNinja.PowerShell/_apis/build/status/DotNet-Ninja.DotNetNinja.PowerShellModules?branchName=master)](https://dev.azure.com/chaosmonkey/DotNetNinja.PowerShell/_build/latest?definitionId=26&branchName=master)
+
 ## DotNetNinja.KubernetesModule
 
 This module contains a single cmdlet that will add/update hosts file entries for the ingresses you have configured in your Kubernetes cluster.  This is helpful when you are (for example) running Minikube locally.  In my case I have ingress set up for the kubernetes dashboard and kiali, but it should work for any ingress that is an http(s) endpoint.
