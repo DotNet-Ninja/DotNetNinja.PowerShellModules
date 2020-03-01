@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNinja.KubernetesModule", "src\DotNetNinja.KubernetesModule\DotNetNinja.KubernetesModule.csproj", "{52A3AB33-07A4-4325-9402-B5E153BC39D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNinja.KubernetesModule.Tests", "tests\DotNetNinja.KubernetesModule.Tests\DotNetNinja.KubernetesModule.Tests.csproj", "{5EBAC6C7-529F-432E-B28F-35CEAFB39AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A3AB33-07A4-4325-9402-B5E153BC39D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A3AB33-07A4-4325-9402-B5E153BC39D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A3AB33-07A4-4325-9402-B5E153BC39D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A3AB33-07A4-4325-9402-B5E153BC39D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBAC6C7-529F-432E-B28F-35CEAFB39AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBAC6C7-529F-432E-B28F-35CEAFB39AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBAC6C7-529F-432E-B28F-35CEAFB39AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBAC6C7-529F-432E-B28F-35CEAFB39AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD73319-EA1A-4F0F-ABA3-955A296402F4}
+	EndGlobalSection
+EndGlobal

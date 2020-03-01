@@ -1,0 +1,4 @@
+NAMESPACE              NAME        HOSTS                      ADDRESS         PORTS   AGE
+istio-system           kiali       kiali.minikube.local       192.168.43.51   443     3d23h
+kubernetes-dashboard   dashboard   dashboard.minikube.local   192.168.43.51   80      3d23h
+random-namespace       random      random.minikube.local      192.168.43.51   8443    3d23h
